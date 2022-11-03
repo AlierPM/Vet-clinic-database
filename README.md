@@ -12,9 +12,7 @@ In this project, I used a relational database to create the initial data structu
   - Vs code
   - Postgresql
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Postegresql installation
 
